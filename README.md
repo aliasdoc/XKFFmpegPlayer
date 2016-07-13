@@ -1,5 +1,5 @@
 # XKFFmpegPlayer
-Clean FFmpeg 3.0 player for iOS / tvOS.
+Clean [FFmpeg 3.0](https://github.com/xbydev/DDPlayer/tree/master/DDPlayer/DDPlayer/FFmpeg-iOS) player for iOS / tvOS.
 Based on [kxmovie](https://github.com/kolyvan/kxmovie)
 
 ## Objects
@@ -58,7 +58,7 @@ Based on [kxmovie](https://github.com/kolyvan/kxmovie)
 ### Requirements
 
 **Frameworks and Libs**
-VideoToolbox.framework, libz.tbd, libbz2.tbd, libiconv.tbd
+[FFmpeg Libs](https://github.com/xbydev/DDPlayer/tree/master/DDPlayer/DDPlayer/FFmpeg-iOS), VideoToolbox.framework, libz.tbd, libbz2.tbd, libiconv.tbd
 
 **Buid Settings**
 
